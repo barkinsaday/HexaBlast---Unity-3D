@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cf3e7f91ff36a14aa712a88c1c4f7ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - innerHexRenderer: {instanceID: 0}
+  - defaultMaterial: {instanceID: 0}
+  - damagedMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
